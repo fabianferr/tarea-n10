@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-color: #97908a;
+
+}
+
+.cabecera {
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+.titulo {
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    font-size: 40px;
+} 
+
+.active {
+
+}
+
+li {
+    display: inline;
+    margin: 10px;
+}
