@@ -83,7 +83,7 @@ main{
 
 .encabezado {
     color: #65b025;
-    margin-block: 30px;
+    margin-block: 50px;
     font-size: 25px;
     font-family: arial;
 }
@@ -94,7 +94,9 @@ main{
 } 
 
 .subtitulo {
+    font-size: 17px;
+    padding: 0px 0px  15px 0px;
+    border-bottom-style: inset;
+    border-bottom-color: #818181;
     color: black;
-    width: 940px;
-    padding: 10px 0px 5px 0px;
 }
