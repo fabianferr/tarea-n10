@@ -22,11 +22,30 @@ header{
     font-size: 40px;
 } 
 
-.active {
+#menu {
+    width: 940px;
+    background-color: #4d4c4a;
 
+}
+
+#menu a{
+    color: #65b025;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.active a{
+    color: white;
+}
+
+.active {
+    background-color: black;
+    color: white;
 }
 
 li {
-    display: inline;
-    margin: 10px;
-}
+    display: inline-block;
+    padding: 17px;
+} 
