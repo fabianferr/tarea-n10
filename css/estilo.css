@@ -11,20 +11,20 @@ header{
 .cabecera {
     width: 1000px;
     margin: 0 auto;
-
 }
 
 .titulo {
     color: white;
     padding-top: 20px;
-    padding-bottom: 60px;
-    padding-left: 20px;
+    padding-bottom: 80px;
+    padding-left: 60px;
     font-size: 40px;
 } 
 
 #menu {
     width: 940px;
     background-color: #4d4c4a;
+    margin: 0 auto;
 
 }
 
@@ -36,10 +36,6 @@ header{
     font-family: Arial;
 }
 
-.active a{
-    color: white;
-}
-
 .active {
     background-color: black;
     color: white;
@@ -49,3 +45,25 @@ li {
     display: inline-block;
     padding: 17px;
 } 
+#menu .active a {
+    color: white;
+}
+
+ul{
+    padding-left: 24px;
+} 
+
+main{
+    background-color:  #7a756f;
+
+}
+
+.imagen {
+    width: 940px;
+    height: 300px;
+    margin: 0 auto;
+    background-image: url(https://wallpapercrafter.com/th8002/745534-anime-anime-girls-Clay-Nier-Automata-2B-Nier.jpg);
+    background-size: 940px 300px;
+    
+}
+
