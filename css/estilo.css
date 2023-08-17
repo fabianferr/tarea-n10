@@ -67,3 +67,34 @@ main{
     
 }
 
+.caja{
+    margin: 0 auto;
+    width: 940px;
+}
+
+.caja2 {
+    width: 240px;
+    float: left;
+    margin: 0 auto;
+    padding: 0px 30px 30px 0px;
+    line-height:30px;
+    text-align: justify;
+}
+
+.encabezado {
+    color: #65b025;
+    margin-block: 30px;
+    font-size: 25px;
+    font-family: arial;
+}
+
+.caja3 {
+    width: 640px;
+    float: right;
+} 
+
+.subtitulo {
+    color: black;
+    width: 940px;
+    padding: 10px 0px 5px 0px;
+}
